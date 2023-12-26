@@ -48,10 +48,6 @@ class HomeScreen extends StatelessWidget {
             );
           },
         ),
-        // child: BlocBuilder<InternetBloc, InternetState>(
-        //   builder: (context, state) {
-
-        // ),
       ),
     );
   }
